@@ -1,56 +1,23 @@
 <div align="center">
 	<a href="https://wureset.com/">
-		<img src="https://github.com/ManuelGil/Reset-Windows-Update-Tool/blob/master/docs/images/wureset.png?raw=true" alt="Logo" height="300" width="300">
+		<img src="https://www.wureset.com/assets/images/logo.png" alt="Logo" height="300" width="300">
 	</a>
 </div>
 <br />
 
-This tool has been developed for use as a support of system repair options.
-It is possible to reset the Windows Update Components. Also is able to delete
-temporary files, scan, detect and repair corruptions with the Windows System
-image, scan all protected system files and replace any corrupted files, change
-invalid values in the Windows Registry, reset Winsock settings and more.
-
-> ### Contents
->
-> [Features](#features) <br /> > [Requirements](#requirements) <br /> > [Reference](#reference) <br /> > [License](#license)
+The Reset Windows Update Tool is a powerful troubleshooting tool designed to help users fix various issues related to Windows updates. This tool provides a wide range of functions to help reset and repair various components of the Windows Update service, as well as address other common system issues.
 
 ## Features
 
-Reset Windows Update Tool is a complete troubleshooting tool that can be
-generated with Windows updates.
+The Reset Windows Update Tool provides the following features:
 
-This tool includes a large number of troubleshooting functions such as:
+- Resetting Windows Update components to their default settings
+- Deleting temporary files to free up disk space
+- Changing invalid values in the Windows Registry to ensure smooth operation
+- Scanning and repairing protected system files that may be corrupted using the "sfc /scannow" command
+- Detecting and repairing corruptions in the Windows system image
+- Cleaning up superseded components to optimize system performance and free up disk space
 
--   Reset Windows Update components
--   Delete temporary files
--   Change invalid values in Windows Registry
--   Scan all protected system file and replace the corrupted one’s (sfc /scannow)
--   Scan, detect and repair corruptions in Windows system image
--   Clean up superseded components
+## Getting Started
 
-## Requirements
-
-This tool is compatible with Windows 8, Windows 8.1, Windows 10
-
-When you run Reset Windows Update Tool is detected the version or build of the
-operative system determined the name and family of the operative system.
-
-If the operating system is not compatible with this tool, display an error
-message and the tool will be closed.
-
-## Reference
-
-How do I reset Windows Update components?:
-[https://support.microsoft.com/en-us/kb/971058](https://support.microsoft.com/en-us/kb/971058).
-
-Use the System File Checker tool to repair missing or corrupted system files:
-[https://support.microsoft.com/en-us/kb/929833](https://support.microsoft.com/en-us/kb/929833).
-
-Fix Windows Update errors by using the DISM or System Update Readiness tool:
-[https://support.microsoft.com/en-us/kb/947821](https://support.microsoft.com/en-us/kb/947821).
-
-## License
-
-Reset Windows Update Tool is licensed under the MS-PL License - see the
-[Microsoft Public License](https://opensource.org/licenses/MS-PL) for details.
+To use the Reset Windows Update Tool, simply download the tool and run it on your Windows system. The tool will guide you through the process of resetting and repairing various components of the Windows Update service, as well as other common system issues.
